@@ -1,0 +1,15 @@
+h1 {
+    color:rgb(0, 0, 0);
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    text-shadow: 2px 2px greenyellow;
+}
+body{
+ background-image: url("https://thecaninebuddy.com/wp-content/uploads/2021/08/crying-cat-meme.jpg");
+}
+img{ 
+}
+
+hr {
+border-top: 50px groove rgba(189, 123, 0, 0.822);
+}
